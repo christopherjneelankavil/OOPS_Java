@@ -15,7 +15,7 @@ public class AddTwoNumbers {
 // Output
 
 // Enter the first number : 
-// 4
+// 4 
 // Enter the second number:
 // 5
 // The sum of 4 and 5 is 9

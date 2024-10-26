@@ -4,7 +4,7 @@
 // Each one of the classes contains only the method numberOfSides( ) that shows the 
 // number of sides in the given geometrical structures.
 
-abstract class Shape{
+abstract class Shape{ 
     public abstract void numberOfSides();
 }
 class Rectangle extends Shape{

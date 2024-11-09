@@ -1,4 +1,4 @@
-//Java program for binary search
+//Java program for binary search 
 
 import java.util.Scanner;
 
